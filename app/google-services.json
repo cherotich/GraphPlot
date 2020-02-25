@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "614395409617",
+    "firebase_url": "https://graphplot-21e1e.firebaseio.com",
+    "project_id": "graphplot-21e1e",
+    "storage_bucket": "graphplot-21e1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614395409617:android:1c19cda8769da5461881f0",
+        "android_client_info": {
+          "package_name": "com.example.graphplot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614395409617-7f43f4n1me8aj10t4esmqc5lbu5d563r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.graphplot",
+            "certificate_hash": "73efada831eb22d339617a093d397aed6a1b3dc2"
+          }
+        },
+        {
+          "client_id": "614395409617-jpmv2qafc8cq0t5osutth15g323ub2vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaFx7oA5TGCyskvVxASCkQPzvZ54pT3Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614395409617-jpmv2qafc8cq0t5osutth15g323ub2vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
